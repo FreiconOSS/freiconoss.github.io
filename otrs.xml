@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_package_list version="1.0">
+<Package>
+    <Name>FreiconOSS-TemplateExtended</Name>
+    <Version>10.1.7</Version>
+    <Vendor>Freicon GmbH</Vendor>
+    <URL>https://freicon.de/</URL>
+    <License>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</License>
+    <ChangeLog Date="2023-03-17 13:06:00" Version="10.1.7">Initial Package.</ChangeLog>
+    <Description Lang="de">OTOBO-AddOn zum Erweitern der Tickettemplate-Funktionalität.</Description>
+    <Framework>10.1.x</Framework>
+    <File>https://github.com/FreiconOSS/otobo-template-extended/releases/download/10.1.7/template-extended-10.1.7.opm</File>
+</Package>
+</otrs_package_list>
